@@ -1,10 +1,10 @@
-#Customer Behavior Analysis Project
+# Customer Behavior Analysis Project
 
 This project represents a complete and end-to-end data analytics workflow designed to mirror the real responsibilities of professional data analysts in modern business environments. The project encompasses all critical stages of data analysis — from data preparation and exploratory analysis to business insight generation, SQL querying and interactive dashboard building.
 
 ---
 
-##Project Overview
+## Project Overview
 
 The goal of this project is to analyze customer shopping behavior from a retail dataset and translate raw data into strategic business intelligence by:
 
@@ -16,7 +16,7 @@ The goal of this project is to analyze customer shopping behavior from a retail 
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```
 customer-behavior-analysis/
@@ -39,13 +39,13 @@ customer-behavior-analysis/
 
 ---
 
-##Dashboard Preview
+## Dashboard Preview
 
 ![Customer Behavior Dashboard](dashboard_preview.png)
 
 ---
 
-##Project Workflow
+## Project Workflow
 
 ```
 Raw CSV Dataset
@@ -70,7 +70,7 @@ Power BI — Interactive Dashboard
 
 ---
 
-##SQL Queries Covered
+## SQL Queries Covered
 
 | # | Business Question |
 |---|-------------------|
@@ -87,7 +87,7 @@ Power BI — Interactive Dashboard
 
 ---
 
-##Key Insights
+## Key Insights
 
 - **Clothing dominates revenue** — $104K out of $233K total (45%), followed by Accessories at $74K
 - **Young Adults generate the most revenue** ($62K) despite similar purchase counts across all age groups
@@ -109,7 +109,7 @@ Power BI — Interactive Dashboard
 
 ---
 
-###Let's Connect
+### Let's Connect
 
 LinkedIn: [Purvi Dawra](https://www.linkedin.com/in/purvi-dawra/)
 
